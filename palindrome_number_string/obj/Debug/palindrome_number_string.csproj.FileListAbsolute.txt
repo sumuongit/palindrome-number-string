@@ -1,0 +1,14 @@
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.exe.config
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.pdb
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\palindrome_number_string.csprojAssemblyReference.cache
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\palindrome_number_string.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.pdb
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\bin\Debug\reverse_number.exe.config
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\bin\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\bin\Debug\reverse_number.pdb
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\obj\Debug\palindrome_number_string.csprojAssemblyReference.cache
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\obj\Debug\palindrome_number_string.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\obj\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\palindrome_number_string\obj\Debug\reverse_number.pdb

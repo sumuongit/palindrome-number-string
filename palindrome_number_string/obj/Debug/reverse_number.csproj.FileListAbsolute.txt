@@ -1,0 +1,7 @@
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.exe.config
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\bin\Debug\reverse_number.pdb
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.csprojAssemblyReference.cache
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.exe
+C:\Users\Sumon\Source\Repos\reverse_number\reverse_number\obj\Debug\reverse_number.pdb
